@@ -1,0 +1,50 @@
+body {
+  background-color: #fff9d0;
+  padding: 20px;
+}
+
+.content {
+  background-color: white;
+  padding: 30px;
+  margin: 40px 150px;
+  border-radius: 20px;
+}
+header {
+  font-family: young-serif;
+}
+.img {
+  max-width: 100%;
+  border-radius: 15px;
+}
+.preparation-time {
+  background-color: #ff70ac21;
+  margin-bottom: 20px;
+  padding: 10px;
+  border-bottom: 1px;
+}
+.preparation-time h2 {
+  color: rgba(137, 43, 226, 0.658);
+}
+h2 {
+  color: sienna;
+}
+
+.ingredients {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.151);
+}
+
+.instructions {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.13);
+}
+
+table {
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+td {
+  width: 400px;
+  border: none;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.137);
+  padding: 10px;
+}
